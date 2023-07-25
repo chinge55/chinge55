@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinge55
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning YOLO based models.
+- 🌱 I’m currently working on Bioinformatics and Fluid Mechanics.
 - 💞️ I’m looking to collaborate on any Open Source Projects
 - 📫 How to reach me: https://sangamkhanal.com.np
 
